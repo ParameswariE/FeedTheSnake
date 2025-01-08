@@ -138,6 +138,7 @@ To run the game locally:
        paths: []
 
 ### 4. Click Next, then Save and deploy
+
 ![Snake Game](./assets/Readme_img/amplify-console.png
     "AWS Amplify")
 
