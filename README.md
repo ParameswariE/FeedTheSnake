@@ -93,8 +93,10 @@ The Challenge Increases As you progress through the levels, the game becomes fas
 
 Good luck and enjoy the excitement of the Feed the Snake adventure! 🐍
 ## Level 3
-![Snake Game](./assets/Readme_img/level-3.png
-    "Level 3")
+
+<div style="text-align: center;">
+    <img src="./assets/Readme_img/level-3.png" alt="Level 3" height="500" width="500">
+</div>
 
 ## Technologies Used
 - **HTML5**: It serves as the foundational structure for the game.
