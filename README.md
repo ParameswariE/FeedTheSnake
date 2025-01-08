@@ -34,7 +34,7 @@ now! 🎮**
 the speed of the snake and the overall challenge.
 
 ![Snake Game](./assets/Readme_img/choose_difficulty.png
-    "Enter Name"){width=300px}
+    "Enter Name"){width=10px}
 
 ### **2. Controls:**
   - Arrow Keys:
