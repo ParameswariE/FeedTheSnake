@@ -95,7 +95,7 @@ Good luck and enjoy the excitement of the Feed the Snake adventure! 🐍
 ## Level 3
 
 <div style="text-align: center;">
-    <img src="./assets/Readme_img/level-3.png" alt="Level 3" height="500" width="1000">
+    <img src="./assets/Readme_img/level-3.png" alt="Level 3" height="500" width="800">
 </div>
 
 ## Technologies Used
