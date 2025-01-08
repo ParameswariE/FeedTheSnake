@@ -34,7 +34,7 @@ now! 🎮**
 the speed of the snake and the overall challenge.
 
 
-<img src="./assets/Readme_img/choose_difficulty.png" alt="Choose Difficulty" width="500">
+<img src="./assets/Readme_img/choose_difficulty.png" alt="Choose Difficulty" height="400" width="500">
 
 ### **2. Controls:**
   - Arrow Keys:
