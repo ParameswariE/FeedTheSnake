@@ -105,11 +105,7 @@ To run the game locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/ParameswariE/aws-game-challenge
-2. To Run Backend:
-    ```bash
-    cd backend
-    node server.js
-3. Open **index.html** in a browser
+2. Open **index.html** in a browser
 
 ## Deploy to AWS Amplify Console
 ### 1. Open Amplify Console
