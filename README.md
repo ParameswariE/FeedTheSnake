@@ -33,8 +33,9 @@ now! 🎮**
 - Choose a difficulty level by selecting one of the available options. Each difficulty level determines 
 the speed of the snake and the overall challenge.
 
-
-<img src="./assets/Readme_img/choose_difficulty.png" alt="Choose Difficulty" height="400" width="500">
+<div style="text-align: center;">
+    <img src="./assets/Readme_img/choose_difficulty.png" alt="Choose Difficulty" height="500" width="500">
+</div>
 
 ### **2. Controls:**
   - Arrow Keys:
