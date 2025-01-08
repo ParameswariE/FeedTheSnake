@@ -34,7 +34,7 @@ now! 🎮**
 the speed of the snake and the overall challenge.
 
 <div style="text-align: center;">
-    <img src="./assets/Readme_img/choose_difficulty.png" alt="Choose Difficulty" height="500" width="500">
+    <img src="./assets/Readme_img/choose_difficulty.png" alt="Choose Difficulty" height="500" width="1000">
 </div>
 
 ### **2. Controls:**
