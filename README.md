@@ -33,10 +33,8 @@ now! 🎮**
 - Choose a difficulty level by selecting one of the available options. Each difficulty level determines 
 the speed of the snake and the overall challenge.
 
-![Snake Game](./assets/Readme_img/choose_difficulty.png
-    "Enter Name"){width=10px}
 
-<img src="./assets/Readme_img/choose_difficulty.png" alt="Choose Difficulty" width="300">
+<img src="./assets/Readme_img/choose_difficulty.png" alt="Choose Difficulty" width="500">
 
 ### **2. Controls:**
   - Arrow Keys:
